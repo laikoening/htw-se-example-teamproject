@@ -1,5 +1,5 @@
 = Teamdokumentation
-Helene Uhlig <Helene.uhlig@htw-dresden.de>
+Lucie Jill Urbons <luciejill.urbons@htw-dresden.de>, Kai Löning email: s77721@htw-dresden.de,Helene Uhlig <Helene.uhlig@htw-dresden.de>
 0.1, 01.09.2019
 :toc:
 :toc-title: Inhaltsverzeichnis
@@ -7,3 +7,13 @@ Helene Uhlig <Helene.uhlig@htw-dresden.de>
 
 == Einführung
 Dieses Dokument dient im Praktikum als Spielwiese für das Kennenlernen und praktische Üben von AsciiDoc und Teamarbeit.
+
+= Reference Documentation
+Lead Developer
+
+This is documentation for project X.
+
+include::Software.adoc[]
+
+include::Teammitglieder.adoc[]
+
