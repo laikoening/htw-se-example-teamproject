@@ -1,1 +1,12 @@
 == Teammitglieder
+|===
+|Name |Rolle des Teammitglieds 
+|Kai
+|Person A
+
+|Helene
+|Person B
+
+|Jill
+|Person C
+|===
